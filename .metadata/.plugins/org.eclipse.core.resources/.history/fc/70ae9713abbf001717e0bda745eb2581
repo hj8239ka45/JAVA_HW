@@ -1,0 +1,27 @@
+
+public class ask {
+	static int GCD,LCM;
+	
+	ask(int x,int y) {
+		int temp=x;temp2=y;
+		while(x!=0||y!=0) {
+			while(x>0) {
+				x=x-y;
+				LCM=y;
+			}
+			while(y>0){
+				y=y-x;
+				LCM=x;
+			}
+		}
+		
+		GCD=LCM*temp*temp2;
+	}
+	public static int getGCD() {
+		return  GCD;
+	}
+	public static int getLCM() {
+		return  LCM;
+	}
+}
+

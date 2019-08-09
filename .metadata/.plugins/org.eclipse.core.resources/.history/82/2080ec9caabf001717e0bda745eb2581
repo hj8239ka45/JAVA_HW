@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class statucs {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a=0,b=0;
+		Scanner scan=new Scanner(System.in);
+		
+		while(a==0||b==0) {
+			System.out.printf("輸入兩樹");
+			a=scan.nextInt();
+			b=scan.nextInt();	
+			System.out.printf("%d%d",a,b);
+		}
+		ask abc=new ask(a,b);
+		
+		
+		
+		System.out.printf("公因數:%d\n公倍數:%d",ask.getLCM() ,ask.getGCD());
+	}
+
+}

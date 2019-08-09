@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\hj823\Desktop\HW17"/>
+		<item value="C:\Users\hj823\Desktop\HW16b_105303051"/>
+		<item value="C:\Users\hj823\Desktop\HW_Mechanism_2"/>
+		<item value="C:\Users\hj823\Desktop\105303061"/>
+		<item value="C:\Users\hj823\Desktop\HW15b_105303061"/>
+		<item value="C:\Users\hj823\Desktop\HW_Mechanism"/>
+		<item value="C:\Users\hj823\Desktop\機構作業_105303061_陳崴淇"/>
+		<item value="C:\Users\hj823\Desktop\HW12_105303061"/>
+		<item value="C:\Users\hj823\Desktop\HW10b_105303061_陳崴淇"/>
+		<item value="E:\eclipse\作業\HW5b_105303061"/>
+		<item value="E:\eclipse\作業\HW3a_105303061"/>
+		<item value="E:\eclipse\作業\HW2b_105303061"/>
+		<item value="E:\eclipse\作業\HW_Mechanism"/>
+		<item value="E:\eclipse\作業\HW6a_105303061"/>
+		<item value="E:\Download\HW5b_105303061"/>
+		<item value="C:\Users\hj823\Desktop\HW5b_105303061"/>
+		<item value="E:\eclipse\作業\HW3b_105303061"/>
+		<item value="E:\eclipse\作業\HW4a_105303061"/>
+		<item value="C:\Users\hj823\Desktop\HW2a_105303061"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="613" key="DIALOG_WIDTH"/>
+		<item value="1|Microsoft JhengHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft JhengHei UI" key="DIALOG_FONT_NAME"/>
+		<item value="635" key="DIALOG_HEIGHT"/>
+		<item value="663" key="DIALOG_X_ORIGIN"/>
+		<item value="126" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

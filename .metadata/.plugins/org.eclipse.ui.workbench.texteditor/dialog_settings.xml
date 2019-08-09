@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="692" key="DIALOG_X_ORIGIN"/>
+		<item value="393" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="bagArr" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="shoesArr"/>
+			<item value="aList"/>
+			<item value="PN[i]"/>
+			<item value="PN"/>
+			<item value="d"/>
+		</list>
+		<list key="replacehistory">
+			<item value="bagArr"/>
+			<item value="p[i].getname()"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="344" key="DIALOG_WIDTH"/>
+		<item value="1|Microsoft JhengHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft JhengHei UI" key="DIALOG_FONT_NAME"/>
+		<item value="442" key="DIALOG_HEIGHT"/>
+		<item value="797" key="DIALOG_X_ORIGIN"/>
+		<item value="255" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
